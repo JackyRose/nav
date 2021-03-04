@@ -79,8 +79,8 @@ const c: IConfig = {
   simThemeConfig: {
     // 海报图
     posterImageUrls: [
-//       'https://raw.sevencdn.com/xjh22222228/nav/image/sim-wallpaper.jpg'
-      'https://gitee.com/cunyu1943/images/raw/master/blogpic/ironman.png'
+      'https://raw.sevencdn.com/xjh22222228/nav/image/sim-wallpaper.jpg'
+//       'https://gitee.com/cunyu1943/images/raw/master/blogpic/ironman.png'
     ],
     description: '精选 <b>${total}</b> 个优质网站、软件、工具'
   }
