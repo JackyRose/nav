@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://nav3.cn/?g">
+  <a href="https://cunyu1943.site/nav">
     <img src="src/assets/logo.png" width="130" />
   </a>
   <br />
@@ -77,7 +77,7 @@
 
 5、务必修改项目配置文件 [nav.config.ts](nav.config.ts)
 
-6、5分钟后打开 https://用户名.github.io/nav 就能看到一个非常强大的导航网站了。
+6、5分钟后打开 https://cunyu1943.github.io/nav 就能看到一个非常强大的导航网站了。
 
 
 注：如果想部署到自己的域名，那么以上教程同样适合，因为它提供了自动化部署， 之后可以通过 `CNAME` 或 `反向代理` 实现：
@@ -126,7 +126,7 @@ mac下是 `Command`，windows 下是 `Ctrl`
 - `ctrl+v` 查看信息
 - `ctrl+d` 开启或关闭暗黑模式
 
-如对快捷键有特殊要求请发起 [issues](https://github.com/xjh22222228/nav/issues)
+如对快捷键有特殊要求请发起 [issues](https://github.com/cunyu1943/nav/issues)
 
 
 
